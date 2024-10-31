@@ -159,3 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 streeteasy-buildings/playwright-working.ipynb
+scraper-playwright.ipynb
+scraper-playwright-sandeep-1031.ipynb
