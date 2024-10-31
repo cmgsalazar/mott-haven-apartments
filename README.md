@@ -6,7 +6,15 @@ Data scraping work is done in partial fulfillment of the requirements for the **
 
 Each branch in the repository corresponds to a data source. 
 
-### Data sources
+## Data sources
 
 * [MNS Bronx real estate market report](https://www.mns.com/bronx_rental_market_report)
 * [StreetEast buildings list in Mott Haven](https://streeteasy.com/buildings/mott-haven)
+
+
+## Process
+
+### Scraping
+I mostly used `BeautifulSoup` to scrape webpages and `wget` and `os` to download files. 
+
+In special circumstances, such as in scraping StreetEasy webpages, I used `async` `Playwright` to access content then fed it to `BeautifulSoup` for parsing. [(H/T to Jonathan Soma for this advice!)](https://jsoma.github.io/advanced-scraping-with-playwright/)
