@@ -1,12 +1,21 @@
 building_name,link,address,coordinates,year_built,total_stories,total_units
-The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",2021,25,190
-The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",2020,25,156
-One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",2024,12,447
-Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",2023,12,365
-276 Grand Concourse,https://streeteasy.com/building/276-grand-concourse-bronx,,"40.81388952,-73.92888188",2022,12,215
-Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",2023,27,200
-101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",2021,7,55
-The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",2023,23,264
-445 Gerard Avenue,https://streeteasy.com/building/445-gerard-avenue-bronx,,"40.81754349,-73.9300955",2023,11,338
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",2020,25.0,156
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",2024,12.0,447
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",2023,12.0,365
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",2023,27.0,200
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",2023,23.0,264
+445 Gerard Avenue,https://streeteasy.com/building/445-gerard-avenue-bronx,,"40.81754349,-73.9300955",2023,11.0,338
 Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",2021,,458
-Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",2023,26,481
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",2021,7.0,55
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",2023,26.0,481
+276 Grand Concourse,https://streeteasy.com/building/276-grand-concourse-bronx,,"40.81388952,-73.92888188",2022,12.0,215
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",2020,25.0,156
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",2024,12.0,447
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",2023,12.0,365
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",2023,27.0,200
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",2023,23.0,264
+445 Gerard Avenue,https://streeteasy.com/building/445-gerard-avenue-bronx,,"40.81754349,-73.9300955",2023,11.0,338
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",2021,,458
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",2021,7.0,55
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",2023,26.0,481
+276 Grand Concourse,https://streeteasy.com/building/276-grand-concourse-bronx,,"40.81388952,-73.92888188",2022,12.0,215
