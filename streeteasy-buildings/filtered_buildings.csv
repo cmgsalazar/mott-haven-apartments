@@ -1,0 +1,616 @@
+building_name,link,address,coordinates,total_units,total_stories,year_built,latitude,longitude
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+555 East 137th Street,https://streeteasy.com/building/555-east-137-street-mott_haven,,"40.8063419,-73.9181371",12.0,5.0,2022.0,40.8063419,-73.9181371
+The Arches +NYC,https://streeteasy.com/building/the-arches-nyc,224 East 135th Street,"40.8100955,-73.9305333",190.0,25.0,2021.0,40.8100955,-73.9305333
+The Arches,https://streeteasy.com/building/the-arches,228 East 135th Street,"40.80996311,-73.93100657",156.0,25.0,2020.0,40.80996311,-73.93100657
+One38,https://streeteasy.com/building/one38-138-bruckner-boulevard-bronx,138 Bruckner Boulevard,"40.80353387,-73.9207622",447.0,12.0,2024.0,40.80353387,-73.9207622
+Bruckner House,https://streeteasy.com/building/bruckner-house,40 Bruckner Boulevard,"40.80629384,-73.92722838",365.0,12.0,2023.0,40.80629384,-73.92722838
+Maven Mott Haven,https://streeteasy.com/building/maven-mott-haven,2413 Third Avenue,"40.80875296,-73.93145214",200.0,27.0,2023.0,40.80875296,-73.93145214
+101 Bruckner Boulevard,https://streeteasy.com/building/101-bruckner-boulevard-bronx,,"40.8054816,-73.925894",55.0,7.0,2021.0,40.8054816,-73.925894
+Third at Bankside,https://streeteasy.com/building/third-at-bankside,2401 Third Avenue,"40.80867363,-73.9319146",458.0,,2021.0,40.80867363,-73.9319146
+The Motto,https://streeteasy.com/building/the-motto,2455 Third Avenue,"40.8093456,-73.9296974",264.0,23.0,2023.0,40.8093456,-73.9296974
+Lincoln at Bankside,https://streeteasy.com/building/lincoln-at-bankside,5 Lincoln Avenue,"40.8071064,-73.9300365",481.0,26.0,2023.0,40.8071064,-73.9300365
+Brown Place Pearl,https://streeteasy.com/building/brown-place-pearl,133 Brown Place,"40.8052827,-73.92219011",16.0,6.0,2020.0,40.8052827,-73.92219011
+The Haven,https://streeteasy.com/building/the-haven,417 East 135th Street,"40.80707638,-73.92344911",22.0,6.0,2020.0,40.80707638,-73.92344911
+2490 Third Avenue,https://streeteasy.com/building/2490-3-avenue-bronx,,"40.8099532,-73.92825392",28.0,5.0,2020.0,40.8099532,-73.92825392
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+109 Bruckner Boulevard,https://streeteasy.com/building/109-bruckner-boulevard-bronx,,"40.80507214,-73.92255921",20.0,6.0,2020.0,40.80507214,-73.92255921
+555 East 137th Street,https://streeteasy.com/building/555-east-137-street-mott_haven,,"40.8063419,-73.9181371",12.0,5.0,2022.0,40.8063419,-73.9181371
