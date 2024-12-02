@@ -2,7 +2,9 @@
 
 This repository contains data scraped and analyzed from various sources in relation to luxury apartments and new developments in the Port Morris / Mott Haven neighborhood in the South Bronx. 
 
-Some data scraping and PDF extraction work were done in partial fulfillment of the requirements for the **Practical Python for News Investigations** class under [Sandeep Junnarkar](https://github.com/sandeepmj) at the Craig Newmark Graduate School of Journalism at CUNY. The resulting data analyses will be used for a reporting assignment for the [Mott Haven Herald](https://motthavenherald.com/). 
+Some data scraping and PDF extraction work were done in partial fulfillment of the requirements for the **Practical Python for News Investigations** class under [Sandeep Junnarkar](https://github.com/sandeepmj) at the Craig Newmark Graduate School of Journalism at CUNY. Notebooks and `csv` files labeled `regex` utilized the said library instead of `re` as part of the class requirements.
+
+The resulting data analyses will be used for a reporting assignment for the [Mott Haven Herald](https://motthavenherald.com/). 
 
 Each branch in the repository corresponds to a data source. 
 
